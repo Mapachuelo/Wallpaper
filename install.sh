@@ -1,1 +1,1 @@
-  mv Wallpapers/* ~/Imágenes/Wallpapers/
+  cp Wallpapers/* ~/Imágenes/Wallpapers/
