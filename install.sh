@@ -1,0 +1,1 @@
+  mv Wallpapers/* ~/Imágenes/Wallpapers/
