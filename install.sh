@@ -1,1 +1,4 @@
-  cp Wallpapers/* ~/Imágenes/Wallpapers/
+#!/bin/bash
+set -e
+
+cp Wallpapers/* "$(xdg-user-dir PICTURES)/Wallpapers/"
