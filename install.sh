@@ -1,4 +1,8 @@
 #!/bin/bash
 set -e
 
-cp Wallpapers/* "$(xdg-user-dir PICTURES)/Wallpapers/"
+destino="$(xdg-user-dir PICTURES)/Wallpapers/"
+
+mkdir -p "$destino"
+
+cp -nv Wallpapers/* "$destino/"
