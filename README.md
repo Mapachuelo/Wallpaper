@@ -3,11 +3,11 @@ Una forma de clonar y mover las imagenes con solo un script.
 
 ## Forma de Instalación
 Clonar repositorio y instalar
-´´´
+```
 git clone https://github.com/Mapachuelo/Wallpaper.git
 cd Wallpaper 
 ./install.sh
-´´´
+```
 ## Vista de los wallapers
 <table>
   <tr>
